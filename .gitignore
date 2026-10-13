@@ -1,0 +1,7 @@
+# Build output / NuGet cache
+bin/
+obj/
+
+# JetBrains Rider / IntelliJ local settings
+.idea/
+*.user
